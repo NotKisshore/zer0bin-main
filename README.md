@@ -1,5 +1,4 @@
 <div align="center">
-	<a href="https://zer0b.in">
     <img src="https://raw.githubusercontent.com/zer0bin-dev/.github/main/zer0bin.svg" height="150px"/>
 	<br>
     <img src="https://raw.githubusercontent.com/zer0bin-dev/.github/main/zer0bin-rainbow.svg" height="100"/>
@@ -9,7 +8,6 @@
     <br>
 	<br>
     <p align="center">
-	<a href="https://github.com/zer0bin-dev/zer0bin/stargazers">
 		<img alt="Stargazers" src="https://custom-icon-badges.herokuapp.com/github/stars/zer0bin-dev/zer0bin?style=for-the-badge&logo=star&color=f6c177&logoColor=31748f&labelColor=191724"></a>
  	<a href="https://github.com/zer0bin-dev/zer0bin/releases/latest">
 		<img alt="Releases" src="https://img.shields.io/github/release/zer0bin-dev/zer0bin?style=for-the-badge&logo=github&color=31748f&logoColor=908caa&labelColor=191724"/></a>
